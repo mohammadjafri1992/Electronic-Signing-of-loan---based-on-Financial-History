@@ -16,3 +16,9 @@ Simple models are good enough to give us at least something to work with. We can
 
 As we gather more data, we can swith to deep learning instead of simple ML models. But we should always start with basic models if the amount of data that we have is a grave concern.
 
+### File structure
+
+This project can be done with Jupyter Notebooks, but that would be not be a very compact project. By keeping the code in .py files, it makes more sense to make this code available to anyone who wants to run the model on their computer with a couple of simple commands and small modifications in the code.
+
+One file is exploratory data analysis file and the other is the actual model.
+
