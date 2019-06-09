@@ -2,7 +2,7 @@
 
 In this project, we are going to look at the data and identify who will apply for the loan. This is based off of actual user data collected from different consumer data selling agencies. This is NOT however, actual data. This is generated data as per the actual data distributions.
 
-### Project outcomes
+### Project outcome
 
 The final accuracy metric of our model is around 65%. This means that we can predict with someone's financial data if he/she will apply for a loan.
 
@@ -24,6 +24,6 @@ One file is exploratory data analysis file and the other is the actual model. Th
 
 Please look at the code files for more in-depth explanation of each line of code and its reasoning.
 
-Feel free to flag any out of ordinary things in the code and I will try my best to clarify those changes.
+Feel free to flag any out of ordinary things in the code and I will try my best to clarify it.
 
 Thank you!
