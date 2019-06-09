@@ -20,5 +20,10 @@ As we gather more data, we can swith to deep learning instead of simple ML model
 
 This project can be done with Jupyter Notebooks, but that would be not be a very compact project. By keeping the code in .py files, it makes more sense to make this code available to anyone who wants to run the model on their computer with a couple of simple commands and small modifications in the code.
 
-One file is exploratory data analysis file and the other is the actual model.
+One file is exploratory data analysis file and the other is the actual model. The third file is the data on which the model runs.
 
+Please look at the code files for more in-depth explanation of each line of code and its reasoning.
+
+Feel free to flag any out of ordinary things in the code and I will try my best to clarify those changes.
+
+Thank you!
